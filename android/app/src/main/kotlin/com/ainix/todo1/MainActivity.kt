@@ -1,0 +1,6 @@
+package com.ainix.todo1
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
